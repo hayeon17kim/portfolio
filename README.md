@@ -20,7 +20,7 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 </br>
 
 ## :pushpin: Projects
-### 1. [DEVIL](https://github.com/procompiler/developer-village)
+### 1. [Developer Village, DEVIL](https://github.com/procompiler/developer-village)
 >개발자 커뮤니티 웹사이트 (팀 프로젝트)  
 >개발 기간: 2020.10.22 ~ 2020.12.31  
 >
