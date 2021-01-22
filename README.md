@@ -41,8 +41,4 @@ Java, Spring, MySQL, AWS, Git 등을 사용하여 서비스를 설계, 개발한
 >
 >[프로젝트 상세 설명](https://github.com/hayeon17kim/hackathon-project#-%EB%82%98%EC%9D%98-%EA%B0%9C%EC%9D%B8-%EB%B9%84%EC%84%9C-nabi-%EF%B8%8F) 참고
 
-
-
-## :pushpin: Other Experience
-
-- 파라과이 창업지원센터
+</br>
